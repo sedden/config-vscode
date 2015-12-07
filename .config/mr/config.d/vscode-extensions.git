@@ -1,0 +1,3 @@
+[.vscode/extensions/vscode-gist]
+checkout = git clone 'https://github.com/dbankier/vscode-gist.git' 'vscode-gist'
+push = :

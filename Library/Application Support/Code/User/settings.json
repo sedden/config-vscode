@@ -1,4 +1,8 @@
 {
+    // Disable usage data, errors and crash reports to be sent to Microsoft
     "telemetry.enableTelemetry": false,
-    "telemetry.enableCrashReporter": false
+    "telemetry.enableCrashReporter": false,
+
+    // Open a new untitled file at startup
+    "workbench.startupEditor": "newUntitledFile"
 }

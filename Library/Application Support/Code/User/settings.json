@@ -4,5 +4,6 @@
     "telemetry.enableCrashReporter": false,
 
     // Open a new untitled file at startup
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Default Light+"
 }
